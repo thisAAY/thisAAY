@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Android Software Engineer based in Cairo, Egypt 🇪🇬 and working for [SMF](https://smartmobilefactory.com/) 🇩🇪.
+I'm an Android Software Engineer based in Cairo, Egypt 🇪🇬 and working for [CandyBytes](https://www.candybytes.com/) 🇦🇹.
 
 ## Some more background
 - Working professionally as hands-on software engineer for 2 years (and as hobby for about 6 years before that!).  
