@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm an Android Software Engineer based in Cairo, Egypt 🇪🇬 and working for [CandyBytes](https://www.candybytes.com/) 🇦🇹.
+I'm an Android Software Engineer based in Cairo, Egypt 🇪🇬 and working for Infinum.
 
 ## Some more background
 - Working professionally as hands-on software engineer for 3 years (and as hobby for about 6 years before that!).  
